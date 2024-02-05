@@ -8,21 +8,23 @@ The Hordes UI Framework is designed to facilitate the development and management
 
 ## Examples
 
-![partybtnbar](./docs/imgs/gui.png)
+![party](./docs/imgs/party.png)
 
 ![partybtnbar](./docs/imgs/partybtnbar.png)
 
-![partybtnbar](./docs/imgs/chat.png)
+![chat](./docs/imgs/chat.png)
 
-![partybtnbar](./docs/imgs/chattranslator.png)
+![chattranslator](./docs/imgs/chattranslator.png)
 
-![partybtnbar](./docs/imgs/emojis.png)
+![emojis](./docs/imgs/emojis.png)
 
-![partybtnbar](./docs/imgs/fameinfo.png)
+![fameinfo](./docs/imgs/fameinfo.png)
 
-![partybtnbar](./docs/imgs/killtracker.png)
+![killtracker](./docs/imgs/killtracker.png)
 
-![partybtnbar](./docs/imgs/settings.png)
+![whisper](./docs/imgs/whisper.png)
 
-![partybtnbar](./docs/imgs/whisper.png)
+![runetracker](./docs/imgs/runetracker.png)
+
+![settings](./docs/imgs/settings.png)
 
